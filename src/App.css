@@ -1,0 +1,7 @@
+.name {
+    color: red;
+}
+.App {
+    display : flex;
+    align-items : center ;flex-direction: column;
+}
